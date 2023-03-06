@@ -1,0 +1,15 @@
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\bin\Debug\net6.0\StudentGroup.exe
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\bin\Debug\net6.0\StudentGroup.deps.json
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\bin\Debug\net6.0\StudentGroup.runtimeconfig.json
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\bin\Debug\net6.0\StudentGroup.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\bin\Debug\net6.0\StudentGroup.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\obj\Debug\net6.0\StudentGroup.csproj.AssemblyReference.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\obj\Debug\net6.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\obj\Debug\net6.0\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\obj\Debug\net6.0\StudentGroup.AssemblyInfo.cs
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\obj\Debug\net6.0\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\obj\Debug\net6.0\StudentGroup.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\obj\Debug\net6.0\refint\StudentGroup.dll
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\obj\Debug\net6.0\StudentGroup.pdb
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\obj\Debug\net6.0\StudentGroup.genruntimeconfig.cache
+C:\Users\Ljupce\Desktop\Akademija SEDC\0.Domasni\5.C-Basic\Homework02\StudentGroup\obj\Debug\net6.0\ref\StudentGroup.dll
